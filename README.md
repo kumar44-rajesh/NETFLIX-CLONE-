@@ -105,9 +105,8 @@ Deploy a fully integrated full-stack solution
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙌 Author
-Nishant Kumar
-B.Tech CSE (AI & ML) | Full-Stack Web Developer
-Portfolio | LinkedIn | GitHub
+Rajesh kumar swain 
+B.Tech CSE (AI & ML) 
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
